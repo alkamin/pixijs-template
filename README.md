@@ -11,7 +11,9 @@ Clone the repository to use it as a starting point for your own Pixi.js experime
 2) `cd some-pixi-experiment`
 3) `git remote rm origin`
 
+The entry point is `src/index.js` which already has a Pixi.js app initialized.
+
+### Scripts
+
 * `npm run start` - start the development server
 * `npm run build` - build a deployable bundle
-
-The entry point is `src/index.js` which already has a Pixi.js app initialized.
