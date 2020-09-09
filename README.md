@@ -7,7 +7,7 @@ A minimal starting point for experiments with Pixi.js using Webpack and Babel to
 
 Clone the repository to use it as a starting point for your own Pixi.js experiments and then remove the remote to clear the way for your own git repo usage
 
-1) `git clone git clone git@github.com:alkamin/pixijs-template.git some-pixi-experiment`
+1) `git clone git@github.com:alkamin/pixijs-template.git some-pixi-experiment`
 2) `cd some-pixi-experiment`
 3) `npm run reinit`
 
